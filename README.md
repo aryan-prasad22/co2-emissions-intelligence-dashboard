@@ -78,7 +78,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Coming soon (Streamlit deployment)
+https://co2-emissions-intelligence-dashboard-aryan.streamlit.app/
 
 ---
 
@@ -94,7 +94,7 @@ Coming soon (Streamlit deployment)
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here after deployment)
+
 
 ---
 
